@@ -146,7 +146,7 @@ header {
   position: relative;
 }
 
-.lesson-icon p {
+.lesson-icon h4 {
   position: absolute;
   top: 44%;
   width: 100%;
