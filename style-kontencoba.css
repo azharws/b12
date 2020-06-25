@@ -1,0 +1,50 @@
+ul{
+  list-style: none;
+  margin: 0px;
+  padding: 60px 0px;
+  text-align: center;
+}
+
+li{
+  color:white;
+  background-repeat: no-repeat;
+  line-height: 150px;
+}
+
+.flex-list li{
+  flex:auto;
+}
+.flex-list{
+  display: flex;
+}
+
+
+img{
+float: left;
+}
+
+.li1, .li2 ,.li3{
+  float:left;
+  width: 40%;
+  background-color: #1C621B ;
+
+}
+
+p{
+  color: white;
+  background-color: #3F9F3E ;
+  font-style: oblique;
+
+}
+
+#nomer1{
+  background-image: url(../projek/icon/number-1-large.png);
+}
+
+#delivery{
+  background-image: url(../projek/icon/delivery-large.png);
+}
+
+#payment{
+  background-image: url(../projek/icon/payment-method-large.png);
+}
